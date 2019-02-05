@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kidman90/egghead-async-await#readme",
   "dependencies": {
+    "bluebird": "^3.5.3",
     "node-fetch": "^2.3.0"
   }
 }
